@@ -78,4 +78,4 @@ Visit the live application hosted on [Render](https://nextstep.onrender.com).
 Watch the application in action: [Loom](https://www.loom.com/share/0085d0ef1f52438b968e8074d40f3e19?sid=7339d3ee-0e1c-4cb1-90cb-5dae81e00eba).
 
 # Contributors
-kartik teja
+Babu Singh
