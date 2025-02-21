@@ -1,14 +1,14 @@
 {
-  "name": "lms",
+  "name": "E-Learning Platform with Personalized Recommendations",
   "version": "1.0.0",
-  "description": "Learning Management System",
+  "description": "This project showcases the creation of a detailed E-Learning Platform aimed at offering students a personalized and engaging learning experience",
   "main": "index.js",
   "scripts": {
     "test": "jest",
     "start": "nodemon -e js,ejs",
     "start:prod": "node index.js"
   },
-  "author": "Kartik <kartikteja343@gmail.com>",
+  "author": "Babu singh <ramavathbabusingh@gmail.com>",
   "license": "ISC",
   "devDependencies": {
     "eslint": "^8.56.0",
