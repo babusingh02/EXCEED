@@ -1,5 +1,5 @@
-# LMS
-Learning Management System
+# E-LP
+E-Learning Platform
 
 # Overview
 This project is a E-Learning Platform with Personalized Recommendations designed to facilitate online learning and teaching. It allows users to sign up, log in, create courses, enroll in courses, view course content, and interact with course materials.
