@@ -2,7 +2,7 @@
 Learning Management System
 
 # Overview
-This project is a Learning Management System (LMS) designed to facilitate online learning and teaching. It allows users to sign up, log in, create courses, enroll in courses, view course content, and interact with course materials.
+This project is a E-Learning Platform with Personalized Recommendations designed to facilitate online learning and teaching. It allows users to sign up, log in, create courses, enroll in courses, view course content, and interact with course materials.
 
 # Features
 - User Authentication: Users can sign up and log in with their email and password. Passwords are securely hashed.
@@ -41,9 +41,9 @@ This project is a Learning Management System (LMS) designed to facilitate online
 
 Sure, here's an updated version of your README file:
 
-LMS - Learning Management System
+E-Learning Platform with Personalized Recommendations
 Overview
-This project is a Learning Management System (LMS) designed to facilitate online learning and teaching. It allows users to sign up, log in, create courses, enroll in courses, view course content, and interact with course materials.
+This project is a E-Learning Platform with Personalized Recommendations designed to facilitate online learning and teaching. It allows users to sign up, log in, create courses, enroll in courses, view course content, and interact with course materials.
 
 Features
 User Authentication: Users can sign up and log in with their email and password. Passwords are securely hashed.
